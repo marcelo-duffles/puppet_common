@@ -1,5 +1,5 @@
 
-class intelie::packages::fuse {
+class puppet_common::packages::fuse {
 	
   package{['libxml2', 'libxml2-devel']: } #required by cloudfuse
   

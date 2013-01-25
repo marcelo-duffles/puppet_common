@@ -1,11 +1,9 @@
-name    'marcelo-puppet-common'
+name 'intelie-puppet_common'
 version ''
-source ''
-author 'marcelo'
+
+author 'Marcelo Moreira <marcelo@intelie.com.br>'
 license ''
+project_page ''
+source ''
 summary ''
 description ''
-project_page ''
-
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'

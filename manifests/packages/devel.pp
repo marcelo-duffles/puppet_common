@@ -1,5 +1,5 @@
 
-class intelie::packages::devel {
+class puppet_common::packages::devel {
 	
   package{['make', 'gcc']: }
   

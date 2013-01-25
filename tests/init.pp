@@ -1,1 +1,1 @@
-include puppet-common
+include puppet_common

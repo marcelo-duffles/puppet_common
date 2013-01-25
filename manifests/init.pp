@@ -1,6 +1,6 @@
-# Class: puppet-common
+# Class: puppet_common
 #
-# This module manages puppet-common
+# This module manages puppet_common
 #
 # Parameters: none
 #
@@ -10,6 +10,6 @@
 #
 # Sample Usage:
 #
-class puppet-common {
+class puppet_common {
 
 }

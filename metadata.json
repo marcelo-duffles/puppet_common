@@ -1,6 +1,6 @@
 {
-  "name": "marcelo-puppet-common",
-  "author": "marcelo",
+  "name": "intelie-puppet_common",
+  "author": "Marcelo Moreira \u003cmarcelo@intelie.com.br\u003e",
   "description": "",
   "license": "",
   "project_page": "",
@@ -8,19 +8,19 @@
   "summary": "",
   "version": "",
   "checksums": {
-    "Modulefile": "93d728e18b661655b7d744bde370de46",
+    "Modulefile": "a4b0abf7b4c5e3a2ffcc00f8a43e2907",
     "README.markdown": "20b98f078873cb3bda54300b4ca262b8",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
-    "manifests/init.pp": "c5e19ddfc988e32e171a27c999444f9b",
-    "manifests/packages/all.pp": "4f78ee9ac61896c2b7a5849cc38a1ace",
-    "manifests/packages/augeas.pp": "c4d7b4a041dec982395ca1ee429973da",
-    "manifests/packages/basic.pp": "d7708ee01d72240e23fb41940da4aec1",
-    "manifests/packages/devel.pp": "b267215ab9438ed6c45f114c1f1c7535",
-    "manifests/packages/fuse.pp": "4977a50227893f6d8213aa691312dd22",
-    "manifests/packages/network.pp": "223353b56ff1e449de9597c0e9b478d5",
+    "manifests/init.pp": "263d241ee786b52bb6de21e227cb69aa",
+    "manifests/packages/all.pp": "047ac3c744e70fbe320197b79f7baf77",
+    "manifests/packages/augeas.pp": "6039584c01222c7935b3429a771d622f",
+    "manifests/packages/basic.pp": "2079fe053c786d74f1ae4913407cbd3d",
+    "manifests/packages/devel.pp": "b5029a79e7f060ea654ab7e5dc08fbb0",
+    "manifests/packages/fuse.pp": "6f7926f5744cf85c9baac0d286b1dee2",
+    "manifests/packages/network.pp": "094e7a3bc263c49af8cc0dcd14fc211a",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
-    "tests/init.pp": "f6239a4debd48369065168bd7279fd65"
+    "tests/init.pp": "a0932febdbe8345e1e0df61a84057d08"
   },
   "dependencies": []
 }

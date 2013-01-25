@@ -1,5 +1,5 @@
 
-class intelie::packages::augeas {
+class puppet_common::packages::augeas {
 
   package{['augeas']: }
   

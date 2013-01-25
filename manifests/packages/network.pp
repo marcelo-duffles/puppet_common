@@ -1,5 +1,5 @@
 
-class intelie::packages::network {
+class puppet_common::packages::network {
 	
   package{['iptraf']: }
   

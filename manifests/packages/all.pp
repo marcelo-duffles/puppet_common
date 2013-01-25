@@ -1,5 +1,5 @@
 
-class intelie::packages::all {
+class puppet_common::packages::all {
 	
   include basic
   include augeas
