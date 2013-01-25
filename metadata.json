@@ -1,0 +1,26 @@
+{
+  "name": "marcelo-puppet-common",
+  "author": "marcelo",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Modulefile": "93d728e18b661655b7d744bde370de46",
+    "README.markdown": "20b98f078873cb3bda54300b4ca262b8",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "c5e19ddfc988e32e171a27c999444f9b",
+    "manifests/packages/all.pp": "4f78ee9ac61896c2b7a5849cc38a1ace",
+    "manifests/packages/augeas.pp": "c4d7b4a041dec982395ca1ee429973da",
+    "manifests/packages/basic.pp": "d7708ee01d72240e23fb41940da4aec1",
+    "manifests/packages/devel.pp": "b267215ab9438ed6c45f114c1f1c7535",
+    "manifests/packages/fuse.pp": "4977a50227893f6d8213aa691312dd22",
+    "manifests/packages/network.pp": "223353b56ff1e449de9597c0e9b478d5",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "f6239a4debd48369065168bd7279fd65"
+  },
+  "dependencies": []
+}
