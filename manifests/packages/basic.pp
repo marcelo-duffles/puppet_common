@@ -1,4 +1,3 @@
-
 class puppet_common::packages::basic {
 	
   package{['lsof', 'mlocate']: }
@@ -8,7 +7,7 @@ class puppet_common::packages::basic {
     path    => '/root/.tmux.conf',
     ensure  => file,
     require => Package['tmux'],
-    source  => "puppet:///modules/puppet_common/tmux_conf"
+    source  => "puppet:///modules/${module_name}/tmux_conf"
   }
   package{['telnet', 'mtr' ]: }
   include puppet_common::packages::augeas
