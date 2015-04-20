@@ -1,1 +1,7 @@
-metadata.json
+.project
+.settings
+.tmp
+.vagrant
+.DS_Store
+modules
+.librarian
