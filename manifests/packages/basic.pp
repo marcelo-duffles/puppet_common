@@ -1,6 +1,6 @@
 class puppet_common::packages::basic {
 	
-  package{['lsof', 'mlocate']: }
+  package{['lsof', 'mlocate', 'tree']: }
   package{['vim-enhanced']: }
   package{['tmux']: }
   file { '.tmux.conf':
