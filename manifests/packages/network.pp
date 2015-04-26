@@ -1,7 +1,7 @@
 
 class puppet_common::packages::network {
 	
-  package{['iptraf']: }
+  package{['iptraf', 'nethogs']: }
   package{['nmap']: }
      
 }
